@@ -1,3 +1,2 @@
 # iOS-Sample-Projects
 
-// TODO
