@@ -1,0 +1,53 @@
+[
+	Traveler(
+		id: 1, 
+		name: "Neo", 
+		flights: [
+			Legs(
+				airlineCode: "AA", 
+				arlineName: "American", 
+				flightNumber: "AA456", 
+				frequentFlyerNumber: ""), 
+			Legs(
+				airlineCode: "VA", 
+				arlineName: "Virgin", 
+				flightNumber: "VA789", 
+				frequentFlyerNumber: "NVA123"), 
+			Legs(
+				airlineCode: "AK", 
+				arlineName: "Alaskan", 
+				flightNumber: "AA789", 
+				frequentFlyerNumber: "NAK123")]), 
+	Traveler(
+		id: 2, 
+		name: "Morpheus", 
+		flights: [
+			Legs(
+				airlineCode: "AA", 
+				arlineName: "American", 
+				flightNumber: "AA456", 
+				frequentFlyerNumber: "MAA123"), 
+			Legs(
+				airlineCode: "VA", 
+				arlineName: "Virgin", 
+				flightNumber: "VA789", 
+				frequentFlyerNumber: ""), 
+			Legs(
+				airlineCode: "AK", 
+				arlineName: "Alaskan", 
+				flightNumber: "AA789", 
+				frequentFlyerNumber: "")]), 
+	Traveler(
+		id: 3, 
+		name: "Trinity", 
+		flights: [
+			Legs(
+				airlineCode: "AA", 
+				arlineName: "American", 
+				flightNumber: "AA456", 
+				frequentFlyerNumber: "")]), 
+	Traveler(
+		id: 4, 
+		name: "Mr. Anderson", 
+		flights: [])
+]
